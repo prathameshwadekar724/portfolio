@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Volunteer Management System (Web)",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive web-based Volunteer Management System to streamline event management and volunteer engagement.",
+    "skills": ["HTML", "CSS", "PHP", "JavaScript", "MySQL"],
+    "demo": "https://www.example.com/vms-web",
+    "source": "https://github.com/prathameshwadekar724/Web-App"
+  },
+  {
+    "title": "Efficient Volunteer Management (Mobile)",
+    "imageSrc": "projects/project.png",
+    "description": "An Android application that extends the VMS with features like Leaderboard, Ratings, Dark Mode, and Real-Time Sync.",
+    "skills": ["Java", "XML", "Firebase"],
+    "demo": "https://www.example.com/vms-mobile",
+    "source": "https://github.com/prathameshwadekar724/Android-App"
+  },
+  {
+    "title": "Smart Weather Station (IoT)",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Smart Weather Station using ESP32 and Arduino to collect real-time weather data, including temperature, humidity, and air quality.",
+    "skills": ["ESP32", "Arduino", "Python", "Firebase", "Sensors"],
+    "demo": "https://www.example.com/smart-weather-station",
+    "source": "https://github.com/prathameshwadekar724/SmartWeatherStation"
+  }
+]
